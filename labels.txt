@@ -1,0 +1,10 @@
+0 Aluminum Can
+1 Coconut Shel...
+2 Glass Bottle
+3 Mug
+4 Paper Cup
+5 Plastic Bott...
+6 Thermos Flas...
+7 Tumbler
+8 Water Jug
+9 Wine Glass
